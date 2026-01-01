@@ -1,5 +1,5 @@
 # Controlling-Franka-Robot-in-Isaac-Sim-using-Ros2-OpenCV-Pytorch-AI-Gesture-trained-model-
-
+https://github.com/user-attachments/assets/6e050375-f4b9-4bba-b913-454a7a25524d
 # Gesture-Controlled Franka Robot (ROS2 + Isaac Sim)
 
 This project implements a **gesture-controlled Franka Panda robot** using **ROS2** and **NVIDIA Isaac Sim**.  
