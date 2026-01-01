@@ -9,7 +9,7 @@ The system is designed with a **modular robotics architecture**, enabling future
 
 ---
 
-## ✨ Features
+## Features
 
 - Hand gesture recognition using OpenCV
 - ROS2-based modular control pipeline
@@ -20,6 +20,17 @@ The system is designed with a **modular robotics architecture**, enabling future
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
+Camera
+↓
+Hand Gesture Node (OpenCV)
+↓
+gesture_id (ROS2 topic)
+↓
+Controller Node
+↓
+JointState (position + velocity)
+↓
+Isaac Sim (Franka Panda)
 
 
