@@ -9,7 +9,7 @@ endif()
 find_package(ament_cmake REQUIRED)
 
 install(
-  DIRECTORY launch rviz world my_robot_bringup
+  DIRECTORY launch  
   DESTINATION share/${PROJECT_NAME}
 )
 
