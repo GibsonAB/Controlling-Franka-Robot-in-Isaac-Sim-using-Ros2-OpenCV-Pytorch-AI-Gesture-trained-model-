@@ -33,6 +33,6 @@ JointState (position + velocity)
 ->
 Isaac Sim (Franka Panda)
 
-
+Now currently implementing basic industrial process instead of targets and trying to initial each sub-process with hand gestures.
 
 
